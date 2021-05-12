@@ -4,7 +4,6 @@ import styled from "styled-components";
 
 function Preference({handleRestrictionUpdate, id, diet, diet_id, restriction, onHandlePreferenceDelete, restrictions, setRestrictions}) {
  
-
 const Button = styled.button`
   background: dodgerblue;
   padding: 5px;
